@@ -5037,8 +5037,6 @@ dependencies = [
 ]
 
 [[package]]
-
-[[package]]
 name = "h2"
 version = "0.3.20"
 source = "registry+https://github.com/rust-lang/crates.io-index"
